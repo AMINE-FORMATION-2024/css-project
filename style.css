@@ -1,0 +1,27 @@
+
+*{
+    font-family: Helvetica, roboto;
+}
+
+.topnav  {
+    background-color:red;width: 120px;height:90%;
+    height: 100px;
+    width: 100vw;
+    padding-top: 20px;
+  
+}
+
+button  { 
+    width: 12%;
+    height: 60px;
+    margin-left: 10px;
+    background-color: blue;
+}
+
+.button-container{
+    width: 80%;
+    height: 100%;
+    display: inline;
+    position: absolute;
+    right: 5px;
+}
